@@ -1,6 +1,6 @@
 # API REST – Gestión de Productos
 
-API desarrollada como trabajo práctico integrador para la materia **Programación III**, basada en arquitectura en capas, validaciones, manejo global de errores, persistencia con JPA/H2 y documentación con Swagger/OpenAPI.
+API desarrollada como trabajo práctico integrador para la materia **Desarrollo De Software**, basada en arquitectura en capas, validaciones, manejo global de errores, persistencia con JPA/H2 y documentación con Swagger/OpenAPI.
 
 ## Descripción del Proyecto
 
