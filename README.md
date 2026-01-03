@@ -113,4 +113,3 @@ Documentación interactiva disponible en: `http://localhost:8080/swagger-ui/inde
 **Camila Bastian**
 *Desarrollo de Software*
 
-```
